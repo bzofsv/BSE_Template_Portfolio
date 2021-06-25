@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# 32 x 8 LED Matrix Spectrum Analyzer
+This project is an LED Matrix Spectrum Analyzer using Arduino and a 32 x 8 NeoPixel LED Matrix. It uses an FFT analyzer to convert audio input to numbers to be displayed on the matrix. It takes computer audio and displays the spectrum onto the LED Matrix. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

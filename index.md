@@ -8,7 +8,7 @@ This project is an LED Matrix Spectrum Analyzer using Arduino and a 32 x 8 NeoPi
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is getting the computer sound inputted into the computer so that my LED Matrix can analyze computer sounds as well as microphone sounds. I also added a button to the project, wired from the Arduino to the breadboard, in order to toggle between computer and microphone sounds. Using the button, I can change between displaying my microphone sound and my computer sound using the button. The button input is taken into the Arduino, printed to the Serial monitor, and read the input through Processing. Using the numbers from the button, I can toggle the sound from microphone to computer and back. The way I originally had the button wired, it was very inconsistent, so I had to rewire the button using a pull up resistor instead of a pull down.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
@@ -21,3 +21,5 @@ My second milestone is getting the basic project working with my microphone inpu
 My first milestone is getting the LED Matrix to light up in a snaking pattern all throughout the matrix. I used the Arduino with the NeoPixel LED Matrix library to write code to do this. This helped me familiarize myself with the NeoPixel Matrix code and the Arduino IDE, and allowed me to experiment with the coding process and how everything was wired together.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+
+<html><iframe width="2544" height="1169" src="https://www.youtube.com/embed/lD5OQyxPeas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>

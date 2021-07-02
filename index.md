@@ -5,7 +5,7 @@ This project is an LED Matrix Spectrum Analyzer using Arduino and a 32 x 8 NeoPi
 |:--:|:--:|:--:|:--:|
 | Brandon Zhang | Lynbrook High School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]![LEDMatrixThumbnail](https://user-images.githubusercontent.com/64446009/124314501-5ae38600-db27-11eb-8300-bf81c78d73fe.jpeg)
   
 # Final Milestone
 My final milestone is getting the computer sound inputted into the computer so that my LED Matrix can analyze computer sounds as well as microphone sounds. I also added a button to the project, wired from the Arduino to the breadboard, in order to toggle between computer and microphone sounds. Using the button, I can change between displaying my microphone sound and my computer sound using the button. The button input is taken into the Arduino, printed to the Serial monitor, and read the input through Processing. Using the numbers from the button, I can toggle the sound from microphone to computer and back. The way I originally had the button wired, it was very inconsistent, so I had to rewire the button using a pull up resistor instead of a pull down.

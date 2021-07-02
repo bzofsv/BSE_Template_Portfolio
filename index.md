@@ -16,6 +16,7 @@ My final milestone is getting the computer sound inputted into the computer so t
 My second milestone is getting the basic project working with my microphone input. I used an FFT analyzer on Processing to convert the input sounds into numbers representing the heights of each of the columns on the matrix. In Processing, I converted the number output of the FFt analyzer to numbers 1-8, representing the height of the columns in the matrix. One problem I ran into was that Processing did not have permission to take audio input from my computer, but Processing was not asking for permission at all, so I was not able to give it microphone access. I worked around this issue by restarting Processing and writing code that would require a microphone, which caused Processing to ask for microphone access. 
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/DgJuS6sL5Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+
 # First Milestone
   
 My first milestone is getting the LED Matrix to light up in a snaking pattern all throughout the matrix. I used the Arduino with the NeoPixel LED Matrix library to write code to do this. This helped me familiarize myself with the NeoPixel Matrix code and the Arduino IDE, and allowed me to experiment with the coding process and how everything was wired together.

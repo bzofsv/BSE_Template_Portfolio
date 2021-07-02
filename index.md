@@ -21,3 +21,9 @@ My second milestone is getting the basic project working with my microphone inpu
 My first milestone is getting the LED Matrix to light up in a snaking pattern all throughout the matrix. I used the Arduino with the NeoPixel LED Matrix library to write code to do this. This helped me familiarize myself with the NeoPixel Matrix code and the Arduino IDE, and allowed me to experiment with the coding process and how everything was wired together.
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/lD5OQyxPeas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+
+
+
+# Reflection
+
+Through this project, I practiced with hardware and circuts, instead of software like I was used to. Previously I have made software games using purely software, so it was interesting to integrate hardware and software together to complete a project. I discovered my interest in circuts and wiring through this project. My favorite part of this project is how the LEDs turn on and off, and are very bright and colorful. I also enjoyed coding and debugging this project, since all the changes I made were visual, and I could see my progress as I fixed something, the improvement was visible and showed up on the matrix.
